@@ -1,0 +1,1 @@
+Rock Paper Scissors course project for TOP JS :>
